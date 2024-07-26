@@ -1,0 +1,23 @@
+body{
+
+    h1 {
+        font-family: 'Courier New', Courier, monospace;
+        color: rgb(7, 46, 7);
+        }
+   
+    .image {
+        margin-top:10px;
+        
+       
+    }
+    table{
+        border:5px, solid,rgb(49, 43, 31) ;
+        font-family: 'Courier New', Courier, monospace;
+        font-size: larger;
+        margin: auto;
+        padding: auto;
+        color:rgb(7, 39, 7); 
+    }
+}
+
+
